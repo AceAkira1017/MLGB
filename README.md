@@ -14,7 +14,7 @@ While MLBB primarily uses UDP for communication, the game automatically switches
 
 ## Get Started
 ```shell script
-git clone https://github.com/v9lu/mlgb.git
+git clone https://github.com/AceAkira1017/mlgb.git
 cd mlgb
 python3 mlgb.py --target <ip:port>
 ```
